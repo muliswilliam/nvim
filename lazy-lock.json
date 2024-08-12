@@ -1,6 +1,7 @@
 {
   "LazyVim": { "branch": "main", "commit": "bcbab77f0c5851e6d73f275f2d27c3baa4f6aa68" },
   "SchemaStore.nvim": { "branch": "main", "commit": "bb370d8ea2055ec3807205367a91d12b9c13dae9" },
+  "auto-save.nvim": { "branch": "main", "commit": "979b6c82f60cfa80f4cf437d77446d0ded0addf0" },
   "bufferline.nvim": { "branch": "main", "commit": "0b2fd861eee7595015b6561dade52fb060be10c4" },
   "catppuccin": { "branch": "main", "commit": "07f1ee861394c163d1f1d3e1926eb309e0c81027" },
   "clangd_extensions.nvim": { "branch": "main", "commit": "a8500531c4ed3a207e744a374ea038744a0f93eb" },
